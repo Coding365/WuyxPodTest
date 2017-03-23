@@ -1,0 +1,6 @@
+framework module WuyxPodTest {
+  umbrella header "WuyxPodTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

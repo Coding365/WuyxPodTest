@@ -1,0 +1,23 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - WuyxPodTest (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - WuyxPodTest (from `../`)
+
+EXTERNAL SOURCES:
+  WuyxPodTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  WuyxPodTest: c62538d019f60b3b23537eaf4769d81a4447202b
+
+PODFILE CHECKSUM: 986034c9aa6e9c15f3f74de41550869425b8ea4c
+
+COCOAPODS: 1.2.0

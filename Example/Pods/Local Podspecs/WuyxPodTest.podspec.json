@@ -1,0 +1,22 @@
+{
+  "name": "WuyxPodTest",
+  "version": "0.1.0",
+  "summary": "A short description of WuyxPodTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Coding365/WuyxPodTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Coding365": "1139965056@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/Coding365/WuyxPodTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WuyxPodTest/Classes/**/*"
+}
